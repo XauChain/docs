@@ -1,0 +1,5 @@
+# Social Channel
+
+
+
+<table data-header-hidden><thead><tr><th width="199">Social</th><th>Link</th></tr></thead><tbody><tr><td>Telegram</td><td><a href="https://t.me/XauChainChannel">https://t.me/XauChainChannel</a></td></tr><tr><td>Telegram Group</td><td><a href="https://t.me/XauChainGroup">https://t.me/XauChainGroup</a></td></tr><tr><td>Twitter</td><td><a href="https://x.com/XauChain">https://x.com/XauChain</a></td></tr><tr><td>Facebook</td><td><a href="https://www.facebook.com/XauChain">https://www.facebook.com/XauChain</a></td></tr><tr><td>Facebook Group</td><td><a href="https://www.facebook.com/groups/xauchain">https://www.facebook.com/groups/xauchain</a></td></tr><tr><td>Tiktok</td><td><a href="https://www.tiktok.com/@xauchain">https://www.tiktok.com/@xauchain</a></td></tr><tr><td>Youtube</td><td><a href="https://www.youtube.com/@XauChain">https://www.youtube.com/@XauChain</a></td></tr><tr><td>Discord</td><td><a href="https://discord.gg/yJ8zyhaTdR">https://discord.gg/yJ8zyhaTdR</a></td></tr><tr><td>Github</td><td><a href="https://github.com/XauChain">https://github.com/XauChain</a></td></tr></tbody></table>

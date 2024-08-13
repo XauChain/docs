@@ -1,6 +1,6 @@
 # Product Offerings
 
-Xauchain.io offers a comprehensive suite of products:
+Xauchain offers a comprehensive suite of products:
 
 **1 Wallet**
 
